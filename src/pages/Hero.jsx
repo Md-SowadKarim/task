@@ -32,7 +32,7 @@ const Hero = () => {
            
               
 
-<div class=" rounded-md gap-1 p-2 shadow-xs my-2 text-left " role="group">
+<div class=" rounded-md gap-1 p-2 shadow-xs my-2 justify-center  md:text-left " role="group">
   <button type="button" class=" px-6 py-1 rounded-l-3xl text-xs border-amber-400 border text-white font-medium bg-purple-950 ">
     ফ্রি ক্লাস
   </button>

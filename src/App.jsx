@@ -55,7 +55,7 @@ console.log(count)
           <Photo/>
       </div>
       <div className='lg:hidden block my-4'>
-        <img src={teachers} alt="" />
+        <img className='mx-auto' src={teachers} alt="" />
       </div>
       <Map/>
       <Footer/>

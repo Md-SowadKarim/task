@@ -1,0 +1,34 @@
+[
+    {
+        "name": "John Doe",
+        "address": "123 Main Street, Dhaka, Bangladesh"
+    },
+    {
+        "name": "Jane Smith",
+        "address": "45 Lake Road, Chittagong, Bangladesh"
+    },
+    {
+        "name": "Rahim Uddin",
+        "address": "78 College Road, Sylhet, Bangladesh"
+    },
+    {
+        "name": "Karim Hasan",
+        "address": "12 Bazar Lane, Rajshahi, Bangladesh"
+    },
+    {
+        "name": "Nusrat Jahan",
+        "address": "34 Green View, Khulna, Bangladesh"
+    },
+    {
+        "name": "Mizanur Rahman",
+        "address": "56 Hilltop, Cox's Bazar, Bangladesh"
+    },
+    {
+        "name": "Fatema Begum",
+        "address": "89 River Side, Barisal, Bangladesh"
+    },
+    {
+        "name": "Sajid Khan",
+        "address": "101 City Center, Rangpur, Bangladesh"
+    }
+]

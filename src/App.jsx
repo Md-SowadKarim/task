@@ -23,7 +23,7 @@ console.log(count)
   return (
     <>
       <div>
-        <Nav/>
+        
         <Hero/>
         <Hero2/>
       <div>

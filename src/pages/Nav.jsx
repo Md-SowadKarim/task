@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 const Nav = () => {
   return (
@@ -24,8 +25,8 @@ const Nav = () => {
 
         </div>
         <div className='flex   justify-center items-center gap-2  '>
-            <p className='flex items-center text-xs  gap-1 text-white'>ভাষা শিক্ষ <div className='h-4 bg-white w-0.5'></div> </p>
-            <p className='flex items-center text-xs   gap-2 text-white'>কোর্স <div className='h-4 bg-white w-0.5'></div> </p>
+            <p className='flex items-center text-xs  gap-1 text-white'><NavLink to="/">ভাষা শিক্ষ</NavLink> <div className='h-4 bg-white w-0.5'></div> </p>
+            <p className='flex items-center text-xs   gap-2 text-white'> <NavLink to="/course">কোর্স</NavLink> <div className='h-4 bg-white w-0.5'></div> </p>
             <p className='flex items-center text-xs  gap-1 text-left text-white'>ভেরিফাই সার্টিফিকেট  </p>
           
         </div>

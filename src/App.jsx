@@ -25,7 +25,7 @@ console.log(count)
       <div>
         
         <Hero/>
-        <Hero2/>
+       
       <div>
  <h1 className='mx-0 text-2xl font-bold my-1'>
 আমাদের কোর্স সমূহ</h1>
